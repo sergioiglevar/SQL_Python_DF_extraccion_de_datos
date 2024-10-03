@@ -280,10 +280,10 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 For any inquiries or suggestions, please reach out to:
 
-- **Name**: Your Name
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Name**: Sergio Iglesias Varela
+- **Email**: sergioiglesiasvarela1986@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/sergio-iglesias-varela-586265109/
+- **GitHub**: https://github.com/sergioiglevar
 
 ---
 
